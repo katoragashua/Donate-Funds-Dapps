@@ -1,7 +1,7 @@
 # Donate Funds Dapps
 
 ## Overview
-This project extends the first task for the Avalanche intermediate course. However, it is an integration of the smart contract with a frontend interface, thereby allowing users interact with the blockchain.
+This project extends the first task for the Avalanche intermediate course. However, it is an integration of the smart contract with a frontend interface, thereby allowing users interact with the blockchain from a UI.
 
 ## Getting Started
 Follow the following steps to get started:
@@ -23,7 +23,8 @@ Follow the following steps to get started:
 
 - Deploy the contract in remix using the injected provider, this will give you access to the contract address.
 
-- Spin up your fronyend server using npm run dev or yarn dev
+- Spin up your frontend server using npm run dev or yarn dev
 
-Author
-0xKatoragashua
+## Author
+
+- 0xKatoragashua
